@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Events;
+using Ddd.Events;
 
-namespace Commands
+namespace Ddd.Commands
 {
     public class PlaceOrder
     {

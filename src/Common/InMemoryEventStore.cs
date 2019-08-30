@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Concurrent;
 using System.Threading;
 
-namespace Common
+namespace Ddd.Common
 {
     public class InMemoryEventStore : IEventStore
     {

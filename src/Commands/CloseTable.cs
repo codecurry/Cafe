@@ -1,6 +1,6 @@
 using System;
 
-namespace Commands
+namespace Ddd.Commands
 {
     public class CloseTable
     {

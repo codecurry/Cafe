@@ -3,7 +3,7 @@ using System.Collections;
 using System.IO;
 using System.Linq;
 using System.Xml.Serialization;
-using Common;
+using Ddd.Common;
 using Xunit;
 
 namespace CafeTests

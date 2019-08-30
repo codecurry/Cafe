@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Events;
+using Ddd.Events;
 using Xunit;
-using Commands;
+using Ddd.Commands;
 
 namespace CafeTests
 {

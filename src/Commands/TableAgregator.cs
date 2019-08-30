@@ -2,10 +2,10 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using Common;
-using Events;
+using Ddd.Common;
+using Ddd.Events;
 
-namespace Commands
+namespace Ddd.Commands
 {
     public class TableAggregate : Aggregate,
         IHandleCommand<OpenTable>,

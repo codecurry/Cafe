@@ -4,7 +4,7 @@ using System.Linq;
 using System.Collections;
 using System.Reflection;
 
-namespace Common
+namespace Ddd.Common
 {
     /// <summary>
     /// This implements a basic message dispatcher, driving the overall command handling

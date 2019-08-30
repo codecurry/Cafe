@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Commands\Ddd.Commands.csproj" />
+    <ProjectReference Include="..\Common\Ddd.Common.csproj" />
+    <ProjectReference Include="..\Events\Ddd.Events.csproj" />
+    <ProjectReference Include="..\Models\Ddd.Models.csproj" />
+  </ItemGroup>
+
+</Project>

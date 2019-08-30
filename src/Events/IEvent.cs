@@ -1,4 +1,4 @@
-namespace Events
+namespace Ddd.Events
 {
     public interface IEvent
     {

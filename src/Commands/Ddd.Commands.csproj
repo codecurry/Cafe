@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Events\Events.csproj" />
-    <ProjectReference Include="..\Common\Common.csproj" />
+    <ProjectReference Include="..\Events\Ddd.Events.csproj" />
+    <ProjectReference Include="..\Common\Ddd.Common.csproj" />
   </ItemGroup>
 
 

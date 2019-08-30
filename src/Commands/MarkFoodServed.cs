@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Commands
+namespace Ddd.Commands
 {
     public class MarkFoodServed
     {

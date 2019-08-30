@@ -1,6 +1,6 @@
 using System.Collections;
 
-namespace Common
+namespace Ddd.Common
 {
     public interface IHandleCommand<TCommand>
     {

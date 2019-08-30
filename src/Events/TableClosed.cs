@@ -1,6 +1,6 @@
 using System;
 
-namespace Events
+namespace Ddd.Events
 {
     public class TableClosed
     {

@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace Common
+namespace Ddd.Common
 {
     /// <summary>
     /// Aggregate base class, which factors out some common infrastructure that

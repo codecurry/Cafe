@@ -15,8 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Commands\Commands.csproj" />
-    <ProjectReference Include="..\..\src\Events\Events.csproj" />
+    <ProjectReference Include="..\..\src\Commands\Ddd.Commands.csproj" />
+    <ProjectReference Include="..\..\src\Events\Ddd.Events.csproj" />
   </ItemGroup>
 
 </Project>

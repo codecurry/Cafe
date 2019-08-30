@@ -1,5 +1,5 @@
 
-namespace Common
+namespace Ddd.Common
 {
     /// <summary>
     /// Implemented by anything that wishes to subscribe to an event emitted by

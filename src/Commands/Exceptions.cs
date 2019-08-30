@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Commands
+namespace Ddd.Commands
 {
     public class TableNotOpen : Exception
     {
